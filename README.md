@@ -47,7 +47,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="40" alt="opera logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+   <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" height="40" alt="javascript logo"  />
+  <img width="12" />
+ 
+    
 </div>
 
 ###
