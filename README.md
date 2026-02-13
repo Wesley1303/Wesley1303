@@ -24,15 +24,17 @@
 
 ###
 
-<p align="left">- 🔭 Meu sonho é ser jogador de Futsal<br>- 📚 Eu estudo Desenvolvimento de sistemas<br>- ⚡ Em meus tempo livres, eu costumo a ler livros</p>
+<p align="left">- 🔭 Meu sonho é ser jogador de Futsal<br>- 📚 Eu estudo Desenvolvimento de sistemas<br>- ⚡ Em meu curso eu me senti muito atraido com a linguagem Python</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagens</h3>
 
 ###
 
 <div align="left">
+  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
